@@ -30,7 +30,7 @@
             <mxPoint x="580" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9W1vv4pVD4SzORK0oGtg-8" value="&lt;pre style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;, monospace; font-size: 13.3333px; line-height: 1.2; margin-bottom: 0px; text-align: left; margin-top: 0px; text-wrap-mode: wrap;&quot; data-ordinal=&quot;1&quot;&gt;0.016&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9W1vv4pVD4SzORK0oGtg-5">
+        <mxCell id="9W1vv4pVD4SzORK0oGtg-8" value="&lt;div style=&quot;font-size: 13.3333px; line-height: 1.2; margin-bottom: 0px; text-align: left; margin-top: 0px; text-wrap-mode: wrap;&quot; data-ordinal=&quot;1&quot;&gt;0.016&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="9W1vv4pVD4SzORK0oGtg-5">
           <mxGeometry x="0.0412" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
