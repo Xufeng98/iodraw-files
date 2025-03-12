@@ -19,7 +19,7 @@
             <mxPoint x="440" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9W1vv4pVD4SzORK0oGtg-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9W1vv4pVD4SzORK0oGtg-4">
+        <mxCell id="9W1vv4pVD4SzORK0oGtg-7" value="&lt;pre style=&quot;line-height: 1.2; margin-bottom: 0px; text-align: left; margin-top: 0px; text-wrap-mode: wrap;&quot; data-ordinal=&quot;1&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;-0.106***&lt;/font&gt;&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9W1vv4pVD4SzORK0oGtg-4">
           <mxGeometry x="-0.0121" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
